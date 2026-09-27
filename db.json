@@ -1,0 +1,372 @@
+{
+  "movies": [
+    {
+      "title": "The Dark Knight",
+      "genreId": "1",
+      "releaseYear": 2008,
+      "rating": 9,
+      "duration": 152,
+      "poster": "https://i.pinimg.com/1200x/be/77/5b/be775b4108d4893ab548fa9d0e670c81.jpg",
+      "description": "A masked vigilante faces a criminal mastermind whose escalating chaos tests the limits of justice and order.",
+      "id": "2"
+    },
+    {
+      "title": "Interstellar",
+      "genreId": "2",
+      "releaseYear": 2014,
+      "rating": 8.7,
+      "duration": 169,
+      "poster": "https://i.pinimg.com/1200x/f8/89/35/f88935b37d2ef7a8cb60bcfdab91eb3a.jpg",
+      "description": "Explorers travel through a mysterious wormhole in search of a new home for humanity.",
+      "id": "3"
+    },
+    {
+      "title": "Spider-Man: Into the Spider-Verse",
+      "genreId": "4",
+      "releaseYear": 2018,
+      "rating": 8.4,
+      "duration": 117,
+      "poster": "https://i.pinimg.com/1200x/30/00/6f/30006f314cebd5b9d2f6e601e612a2c8.jpg",
+      "description": "A teenager discovers a world of Spider-heroes from different dimensions and learns what it means to wear the mask.",
+      "id": "5"
+    },
+    {
+      "title": "Thor",
+      "genreId": "1",
+      "genreIds": [
+        "1",
+        "pXZn4g3DBag"
+      ],
+      "releaseYear": 2011,
+      "rating": 7,
+      "durationHours": "1",
+      "durationMinutes": "54",
+      "poster": "https://i.pinimg.com/1200x/3b/7e/d9/3b7ed965a7affb04c7bb2e41e875c8c0.jpg",
+      "description": " Thor is an ancient war with his reckless behavior, causing his father Odin to strip him of his godly powers, take away his magical hammer Mjölnir, and cast him out to New Mexico on Earth.",
+      "duration": 114,
+      "id": "yNggYiEIeM8"
+    },
+    {
+      "title": "Deadpool",
+      "genreId": "1",
+      "genreIds": [
+        "1",
+        "3",
+        "5"
+      ],
+      "releaseYear": 1990,
+      "rating": 9,
+      "durationHours": "1",
+      "durationMinutes": "48",
+      "poster": "https://i.pinimg.com/736x/51/61/3e/51613e963017cc89584a586e3d41273b.jpg",
+      "description": "Ajax, a twisted scientist, experiments on Wade Wilson, a mercenary, to cure him of cancer and give him healing powers. However, the experiment leaves Wade disfigured and he decides to exact revenge.",
+      "duration": 108,
+      "id": "h4UKjSzBC4o"
+    },
+    {
+      "title": "Spiderman Homecoming",
+      "genreId": "1",
+      "genreIds": [
+        "1",
+        "pXZn4g3DBag",
+        "5thJkPiBRrQ"
+      ],
+      "releaseYear": 2017,
+      "rating": 7.8,
+      "durationHours": "2",
+      "durationMinutes": "11",
+      "poster": "https://i.pinimg.com/1200x/f9/54/8b/f9548b8ed7239c72df061a6ec1b24f38.jpg",
+      "description": "Peter Parker tries to stop Adrian 'The Vulture' Toomes from selling weapons made with advanced Chitauri technology while trying to balance his life as an ordinary high school student.",
+      "duration": 131,
+      "id": "mHJ_LmSwtbQ"
+    },
+    {
+      "title": "Meiyazhagan",
+      "genreId": "otXH5olp0Yo",
+      "genreIds": [
+        "otXH5olp0Yo",
+        "AtJ_jH9RSpo"
+      ],
+      "releaseYear": 2024,
+      "rating": 9,
+      "durationHours": "2",
+      "durationMinutes": "58",
+      "poster": "https://i.pinimg.com/736x/d9/d7/63/d9d76357e944f622de52055ee68d7700.jpg",
+      "description": "Sathyam Sundaram follows the reunion of two cousins after many years apart. As they come from vastly different backgrounds and lifestyles, their meeting sparks a clash of worlds, driving the central conflict of the story.",
+      "duration": 178,
+      "id": "0gEbvzO_cJM"
+    },
+    {
+      "title": "F1",
+      "genreId": "AtJ_jH9RSpo",
+      "genreIds": [
+        "AtJ_jH9RSpo",
+        "n6mMquPIGGc",
+        "5thJkPiBRrQ"
+      ],
+      "releaseYear": 2025,
+      "rating": 7.5,
+      "durationHours": "2",
+      "durationMinutes": "36",
+      "poster": "https://i.pinimg.com/736x/0c/3b/bc/0c3bbcb3c8798c37c1fa71ffbfe525d7.jpg",
+      "description": "In the 1990s, Sonny Hayes was Formula 1's most promising driver until an accident on the track nearly ended his career. Thirty years later, the owner of a struggling Formula 1 team convinces Sonny to return to racing and become the best in the world. ",
+      "duration": 156,
+      "id": "d6sQVQFuevc"
+    }
+  ],
+  "genres": [
+    {
+      "id": "1",
+      "name": "Action"
+    },
+    {
+      "id": "2",
+      "name": "Sci-Fi"
+    },
+    {
+      "id": "3",
+      "name": "Comedy"
+    },
+    {
+      "id": "4",
+      "name": "Animation"
+    },
+    {
+      "id": "5",
+      "name": "Thriller"
+    },
+    {
+      "name": "Adventure",
+      "id": "5thJkPiBRrQ"
+    },
+    {
+      "name": "Documentary",
+      "id": "AtJ_jH9RSpo"
+    },
+    {
+      "name": "Crime",
+      "id": "ZG-fNoIqLz0"
+    },
+    {
+      "name": "Drama",
+      "id": "otXH5olp0Yo"
+    },
+    {
+      "name": "Mystery",
+      "id": "mrICRrLwfww"
+    },
+    {
+      "name": "Fantasy",
+      "id": "pXZn4g3DBag"
+    },
+    {
+      "name": "Romance",
+      "id": "nW6I8G9Pibw"
+    },
+    {
+      "name": "Horror",
+      "id": "_7smkGUk2UM"
+    },
+    {
+      "name": "Bio-pic",
+      "id": "EgkF2Yk4nM4"
+    },
+    {
+      "name": "Musical",
+      "id": "OSmqgSBC8T4"
+    },
+    {
+      "name": "Sports",
+      "id": "n6mMquPIGGc"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "1",
+      "movieId": null,
+      "reviewer": "Rinaldii",
+      "rating": 5,
+      "comment": "A brilliant science-fiction experience with an unforgettable concept.",
+      "date": "2026-08-01"
+    },
+    {
+      "id": "2",
+      "movieId": null,
+      "reviewer": "rinall",
+      "rating": 4,
+      "comment": "Complex but rewarding. The visuals and soundtrack are excellent.",
+      "date": "2026-08-08"
+    },
+    {
+      "id": "3",
+      "movieId": "2",
+      "reviewer": "rinal",
+      "rating": 5,
+      "comment": "Excellent performances and a gripping story from beginning to end.",
+      "date": "2026-08-10"
+    },
+    {
+      "id": "4",
+      "movieId": "3",
+      "reviewer": "rinaldii",
+      "rating": 5,
+      "comment": "Beautiful, emotional and ambitious.",
+      "date": "2026-08-12"
+    },
+    {
+      "movieId": "2",
+      "reviewer": "rinal",
+      "rating": 4,
+      "comment": "good movie",
+      "date": "2026-09-12",
+      "id": "ZR8WEiB4H3c"
+    },
+    {
+      "movieId": "2",
+      "reviewer": "Rinaldii",
+      "reviewerId": "antonyrinaldi3@gamil.com",
+      "rating": 5,
+      "comment": "very good movie",
+      "date": "2026-09-12",
+      "id": "xScNtao8fjM"
+    },
+    {
+      "movieId": "2",
+      "reviewer": "rinal",
+      "reviewerId": "rinal4@gmail.com",
+      "rating": 1,
+      "comment": "very poor",
+      "date": "2026-09-12",
+      "id": "i7CnybfaDmI"
+    },
+    {
+      "seriesId": "series-1",
+      "reviewer": "Rinaldii",
+      "reviewerId": "antonyrinaldi3@gamil.com",
+      "rating": 5,
+      "comment": "very good",
+      "date": "2026-09-12",
+      "id": "lq7W3ilU6Ik"
+    },
+    {
+      "seriesId": "series-1",
+      "reviewer": "rinal",
+      "reviewerId": "rinal4@gmail.com",
+      "rating": 2,
+      "comment": "long and laggy",
+      "date": "2026-09-12",
+      "id": "7GTloNV5jw4"
+    },
+    {
+      "movieId": "3",
+      "reviewer": "rinal",
+      "reviewerId": "rinal4@gmail.com",
+      "rating": 3,
+      "comment": "good by laggy",
+      "date": "2026-09-12",
+      "id": "VGN0xMRxIRE"
+    },
+    {
+      "movieId": "h4UKjSzBC4o",
+      "reviewer": "Antony",
+      "reviewerId": "anto2@gmail.com",
+      "rating": 5,
+      "comment": "Fun filled action movie",
+      "date": "2026-09-12",
+      "id": "I96xdkEyKR4"
+    },
+    {
+      "movieId": "mHJ_LmSwtbQ",
+      "reviewer": "rinal",
+      "reviewerId": "rinal4@gmail.com",
+      "rating": 5,
+      "comment": "The characters are well developed and it worked very nice",
+      "date": "2026-09-12",
+      "id": "BkL4cGbQONk"
+    },
+    {
+      "movieId": "mHJ_LmSwtbQ",
+      "reviewer": "Antony",
+      "reviewerId": "anto2@gmail.com",
+      "rating": 3,
+      "comment": "Worked good ,But not near the old Spiderman movies",
+      "date": "2026-09-12",
+      "id": "jHeUmW6HUnQ"
+    },
+    {
+      "movieId": "mHJ_LmSwtbQ",
+      "reviewer": "Rinaldii",
+      "reviewerId": "antonyrinaldi3@gamil.com",
+      "rating": 5,
+      "comment": "Fantastic film",
+      "date": "2026-09-12",
+      "id": "PJAbVmlrDUk"
+    },
+    {
+      "rating": 5,
+      "comment": "I thought how this movie is entertaining at the start , Then only i realized that movie is not about entertaining this movie make us  remember the time i spend with my cousins when i was a kid while going to my grandparents house.",
+      "date": "2026-09-12",
+      "id": "QUMftzAYCXY"
+    },
+    {
+      "movieId": "h4UKjSzBC4o",
+      "reviewer": "rinal",
+      "reviewerId": "antonyrinaldi3@gmail.com",
+      "rating": 3,
+      "comment": "not a movie u can watch with family has more censorable words",
+      "date": "2026-09-12",
+      "id": "9ianPNEARMo"
+    },
+    {
+      "movieId": "0gEbvzO_cJM",
+      "reviewer": "ANTONY",
+      "reviewerId": "antony@gmail.com",
+      "rating": 5,
+      "comment": "Wonderfull movie",
+      "date": "2026-09-15",
+      "id": "RLO0l07RFo8"
+    },
+    {
+      "rating": 4,
+      "comment": "great Experience",
+      "date": "2026-09-15",
+      "id": "sJnICnaXCYU"
+    }
+  ],
+  "series": [
+    {
+      "title": "Stranger Things",
+      "releaseDate": "2016-07-15",
+      "rating": 8.7,
+      "totalEpisodes": 34,
+      "totalSeasons": 4,
+      "avgEpisodeRuntime": 51,
+      "description": "A group of friends uncover strange experiments and supernatural mysteries in their small town.",
+      "thumbnail": "https://i.pinimg.com/1200x/87/b7/36/87b7360a15926ff8f7a7acc610a76fec.jpg",
+      "id": "series-1"
+    },
+    {
+      "title": "The Last of Us",
+      "releaseDate": "2023-01-15",
+      "rating": 8.8,
+      "totalEpisodes": 15,
+      "totalSeasons": 2,
+      "avgEpisodeRuntime": 58,
+      "thumbnail": "https://i.pinimg.com/1200x/f7/25/fa/f725fa9666b89729d8ee8a6f51a1ccf0.jpg",
+      "description": "A hardened survivor and a teenage girl cross a dangerous post-pandemic America.",
+      "id": "series-2"
+    },
+    {
+      "title": "Breaking Bad",
+      "releaseDate": "2008-01-20",
+      "rating": 9.5,
+      "totalEpisodes": 62,
+      "totalSeasons": 5,
+      "avgEpisodeRuntime": 47,
+      "thumbnail": "https://i.pinimg.com/1200x/37/62/75/37627587496965efcc0ae42ac9dff525.jpg",
+      "description": "A chemistry teacher enters the world of crime and transforms his life in unexpected ways.",
+      "id": "series-3"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

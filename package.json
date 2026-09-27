@@ -1,0 +1,22 @@
+{
+  "name": "movie-entertainment-portal",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "server": "json-server --watch db.json --port 3000"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-router-dom": "^7.8.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.0.2",
+    "json-server": "^1.0.0-beta.3",
+    "vite": "^8.3.1"
+  }
+}
